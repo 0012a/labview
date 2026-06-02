@@ -1,0 +1,10 @@
+Power Supply 2260B|OUTP 1|write_only|100||||開啟輸出
+Power Supply 2260B|*IDN?|write_and_read|70|asc,search|2260B|2260B|設備型號
+Power Supply 2260B|MEAS:VOLT?|write_and_read|70|float|19|15|電壓量測值
+Power Supply 2260B|MEAS:CURR?|write_and_read||float|10.5|15|電流量測值
+Power Supply 2260B|OUTP?|write_and_read||float|1|1|是否有在輸出?
+
+Power Supply 2260B|OUTP 0|write_only|3000||||關閉輸出
+Power Supply 2260B|MEAS:VOLT?|write_and_read||float|10.5|15|電壓量測值
+Power Supply 2260B|MEAS:CURR?|write_and_read||float|10.5|15|電流量測值
+Power Supply 2260B|OUTP?|write_and_read||float|0|0|是否有在輸出?
