@@ -1,8 +1,9 @@
-Power Supply 2260B|*IDN?|write_and_read|70|asc,search|2260B|2260B|≥]≥∆´¨∏π
-Oscilloscope DSOX3034G|*IDN?|write_and_read|70|asc,search|3034G|3034G|≥]≥∆´¨∏π
+Power Supply 2260B|*IDN?|write_and_read|70|asc,search|2260B|2260B|Ë®≠ÂÇôÂûãËôü
+Oscilloscope DSOX3034G|*IDN?|write_and_read|70|asc,search|3034G|3034G|Ë®≠ÂÇôÂûãËôü
 Oscilloscope DSOX3034G|:CHAN1:DISP ON;|write_only|70||||channel open
 Oscilloscope DSOX3034G|:CHAN1:SCAL 2.100;	|write_only|70||||channel scal
-Oscilloscope DSOX3034G|:DISPlay:DATA? PNG, COLOR|scope|||||∫Iπœ
+Oscilloscope DSOX3034G|:DISPlay:DATA? PNG, COLOR|scope|||||Êà™Âúñ
 Oscilloscope DSOX3034G|:CHAN1:OFFS 3;|write_only|2000||||channel offset
 Oscilloscope DSOX3034G|:CHAN1:DISP OFF;|write_only|70||||channel close
-Oscilloscope DSOX3034G|:DISPlay:DATA? PNG, COLOR|scope|||||∫Iπœ
+Oscilloscope DSOX3034G|:DISPlay:DATA? PNG, COLOR|scope|||||Êà™Âúñ
+Oscilloscope DSOX3034G|:MARKer:MODE MANual;:MARKer:X1Y1source CHANnel1|write_only|70||||XÊ∏∏Ê®ôÊ∫êË®≠ÁÇ∫CH1

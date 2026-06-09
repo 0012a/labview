@@ -1,0 +1,3 @@
+﻿Oscilloscope DSOX3034G|:MARKer:MODE MANual;:MARKer:X1Y1source CHANnel1|write_only|70||||X游標源設為CH1
+Oscilloscope DSOX3034G|:MARKer:Y1Position -1.5;:MARKer:Y2Position 1.5|write_only|70||||設定 Y1 到 -1.5V，Y2 到 1.5V
+Oscilloscope DSOX3034G|:MARKer:X1Position 150us;:MARKer:X2Position 300us|write_only|70||||設定 X1 到 -100us，X2 到 100us
